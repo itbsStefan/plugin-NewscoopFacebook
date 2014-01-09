@@ -1,5 +1,5 @@
 {
-    "name": "newscoop/facebook-newscoop-bundle",
+    "name": "itbsstefan/facebook-newscoop-bundle",
     "description": "Usefull sevices for integration Newscoop and Facebook",
     "keywords": ["newscoop", "facebook", "cms", "integration"],
     "version": "0.2",
@@ -13,6 +13,10 @@
         {
             "name": "Rafał Muszyński",
             "email": "rafal.muszynski@sourcefabric.org"
+        },
+        {
+            "name": "Stefan Gehrmann",
+            "email": "itbs@visproxy.net"
         }
     ],
     "require": {
